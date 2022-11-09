@@ -7,7 +7,7 @@ Console.WriteLine("Курси Sana Commerce Software Development Bootcamp '23");
 
 Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
 
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Hello, World!");
     
